@@ -35,3 +35,14 @@ https://github.com/Lashvardi/small-proxy-server
 რომელიც უნდა მოვათავსოთ ლინკში
 https://skolebi.emis.ge/back/imagedownload?attachmentId=(აიდი)
 ```
+
+```
+მეორე პროექტი
+🔴 საჭიროა PROXY
+```
+Europop ის API მისამართები
+ბლოგის ტიპის ვებსაიტი
+
+- https://europop.ge/api/featured-posts
+- - გამორჩეული პოსტების სია
+-
