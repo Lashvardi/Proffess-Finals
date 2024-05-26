@@ -46,3 +46,16 @@ Europop ის API მისამართები
 - https://europop.ge/api/featured-posts
 - - გამორჩეული პოსტების სია
 -
+#გასალამაზებელი
+https://europop.ge/api/featured-posts
+https://europop.ge/api/posts?cursor=
+https://europop.ge/api/search?query=&detailed=true
+https://europop.ge/api/posts/latest
+https://europop.ge/api/posts/more-latest
+https://europop.ge/api/posts/analytic
+https://europop.ge/api/authors?page=1&size=15
+https://europop.ge/api/posts/powered-by-europebet?size=10
+https://europop.ge/api/posts/powered-by-europebet/featured
+
+
+
