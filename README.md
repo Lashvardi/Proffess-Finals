@@ -56,6 +56,6 @@ https://europop.ge/api/posts/analytic
 https://europop.ge/api/authors?page=1&size=15
 https://europop.ge/api/posts/powered-by-europebet?size=10
 https://europop.ge/api/posts/powered-by-europebet/featured
-
+https://europop.ge/api/posts/294927
 
 
